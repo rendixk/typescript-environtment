@@ -14,8 +14,8 @@ Simple and clean Typescript environtment with support for:
 clone this repo and install dependencies:
 
 ```bash
-git clone https://https://github.com/rendixk/typesscript-environtment.git
-cd typesscript-environtment
+git clone https://https://github.com/rendixk/typescript-environtment.git
+cd typescript-environtment
 npm i
 
 Scripts:
